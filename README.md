@@ -1,4 +1,7 @@
 ## Olá! Eu me chamo Guilherme Pinheiro 👋
+Sou um profissional com uma sólida experiência no mercado, trago um vasto conhecimento em diversas tecnologias que moldam o mundo em que vivemos.
+
+Ao longo dos anos, tive o privilégio de me envolver em projetos inovadores e desafiadores, abrangendo uma ampla gama de setores e indústrias. Minha trajetória profissional tem sido marcada por uma paixão incansável por explorar e dominar as mais recentes tendências tecnológicas.
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@code2532/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_ruchell/)
